@@ -1,4 +1,4 @@
-#include "../../include/data-structure/qeuee.h"
+#include "../../include/data-structure/queue.h"
 #include <iostream>
 
 using namespace std;

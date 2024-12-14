@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "fstream": "cpp"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/hacker/Project/dsa-project/Bank-management-system/build",
+            "binaryPath": "/home/hacker/Project/dsa-project/Bank-management-system/build/start_system",
+            "binaryArgs": []
+        }
+    ]
+}
